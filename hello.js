@@ -1,6 +1,4 @@
 
-let x;
-
-x = "world"
+let x ="world"
 
 console.log("hello" + x);
