@@ -1,5 +1,5 @@
 
-const x;
+let x;
 
 x = "world"
 
